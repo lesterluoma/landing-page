@@ -13,14 +13,6 @@ A simple landing page created for HTML and CSS practice without frameworks.
 - Call-to-action banner
 - Footer
 
-## Skills Demonstrated
-
-- Semantic HTML
-- Flexbox layout
-- Color schemes and typography
-- Button styling
-- Container positioning
-
 ## How to Run
 
 1. Clone the repository
